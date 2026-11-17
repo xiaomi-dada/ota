@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1794823517,
+    "datetime": 1794855806,
     "files": [
       {
         "filename": "lineage-24.0-20261116-UNOFFICIAL-dada-incremental-from-1794785743.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "73fc1f9d43a099da138b74aa3285047c1b7e6c3c28bb83a55f61c14050ae8d75",
-        "size": 152409117,
-        "url": "https://github.com/xiaomi-dada/ota/releases/download/dada-20261116-100517/lineage-24.0-20261116-UNOFFICIAL-dada-incremental-from-1794785743.zip"
+        "sha256": "4aec2bd22c85c3014703493f3d3027672c2c4ea49e8c46b68a26f38c6298cf83",
+        "size": 152203728,
+        "url": "https://dl.ilovekt.com/lineage/dada/vanilla/lineage-24.0-20261116-UNOFFICIAL-dada-incremental-from-1794785743.zip"
       }
     ],
     "type": "unofficial",

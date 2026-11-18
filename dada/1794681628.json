@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1794855806,
+    "datetime": 1795013072,
     "files": [
       {
-        "filename": "lineage-24.0-20261116-UNOFFICIAL-dada.zip",
+        "filename": "lineage-24.0-20261118-UNOFFICIAL-dada.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "14c870b0b9d7db7ffabc76d669b67f1e0c0361842556691351382d1e34a9dd00",
-        "size": 3996558133,
-        "url": "https://dl.ilovekt.com/lineage/dada/vanilla/lineage-24.0-20261116-UNOFFICIAL-dada.zip"
+        "sha256": "07033c2def76b221de9269568bfb59f11aa80aeb59989cc7170e07647c76d3d4",
+        "size": 3996556366,
+        "url": "https://dl.ilovekt.com/lineage/dada/vanilla/lineage-24.0-20261118-UNOFFICIAL-dada.zip"
       }
     ],
     "type": "unofficial",
